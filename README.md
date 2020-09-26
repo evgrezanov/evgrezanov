@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**evgrezanov/evgrezanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-evgrezanov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evgrezanov@gmail.com)](mailto:evgrezanov@gmail.com) [![Github Badge](https://img.shields.io/badge/-evgrezanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/evgrezanov/)](https://www.github.com/evgrezanov/) 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=evgrezanov alt=evgrezanov /> </p>
 
-Here are some ideas to get you started:
+## I'm Evgeniy, web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web-dev: PHP, JS
+- Learn: VueJS, GatsbyJS
+- Earlier: 1C, Delphi
+- PHP: WordPress, WooCommerce
+- JS, Frontend: Bootstrap
+- DB: MySQL, PosgreSQL, MS SQL, Redis, Memcached
+
+## Some of my Github Stats
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgrezanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evgrezanov)](https://github.com/anuraghazra/github-readme-stats)
