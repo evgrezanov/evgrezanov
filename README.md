@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-evgrezanov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evgrezanov@gmail.com)](mailto:evgrezanov@gmail.com) [![Github Badge](https://img.shields.io/badge/-evgrezanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/evgrezanov/)](https://www.github.com/evgrezanov/)  [![](https://img.shields.io/badge/-Evgeniy%20Rezanov-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evgeniy-rezanov/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-evgrezanov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evgrezanov@gmail.com)](mailto:evgrezanov@gmail.com) [![Github Badge](https://img.shields.io/badge/-evgrezanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/evgrezanov/)](https://www.github.com/evgrezanov/)  [![linkedin Badge](https://img.shields.io/badge/-Evgeniy%20Rezanov-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evgeniy-rezanov/?locale=en_US) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=evgrezanov alt=evgrezanov /> </p>
 
 ## I'm Evgeniy, web developer
+
 
 - Web-dev: PHP, JS
 - Learn: VueJS, GatsbyJS
