@@ -6,9 +6,9 @@
 ## I'm Evgeniy, web developer
 
 
-- Web-dev: PHP, JS
-- Learn: VueJS, GatsbyJS
-- Earlier: 1C, Delphi
+- Web-dev: PHP, JavaScript
+- Learn: chatGPT, VueJS, GatsbyJS
+- Earlier: 1C, Delphi, corporate EMC systems
 - PHP: WordPress, WooCommerce
 - JS, Frontend: Bootstrap
 - DB: MySQL, PosgreSQL, MS SQL, Redis, Memcached
