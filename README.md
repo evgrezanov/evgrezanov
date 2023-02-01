@@ -8,7 +8,7 @@
 
 - Web-dev: PHP, JavaScript
 - Learn: chatGPT, VueJS, GatsbyJS
-- Earlier: 1C, Delphi, corporate EMC systems
+- Earlier: 1C, Delphi, corporate EMC systems, company documents flow
 - PHP: WordPress, WooCommerce
 - JS, Frontend: Bootstrap
 - DB: MySQL, PosgreSQL, MS SQL, Redis, Memcached
