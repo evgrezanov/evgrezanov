@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-evgrezanov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evgrezanov@gmail.com)](mailto:evgrezanov@gmail.com) [![Github Badge](https://img.shields.io/badge/-evgrezanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/evgrezanov/)](https://www.github.com/evgrezanov/)  [![linkedin Badge](https://img.shields.io/badge/-Evgeniy%20Rezanov-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/evgeniy-rezanov/?locale=en_US) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=evgrezanov alt=evgrezanov /> </p>
 
-## I am Evgeniy, a web developer, currently focusing on WordPress-based web projects
+## I am Evgeniy, a web developer, currently focusing on WordPress-based projects
 
 
 I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and front-end development. I am always eager to learn and expand my skill set, and am currently exploring new technologies such as chatGPT, VueJS, and GatsbyJS.
