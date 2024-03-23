@@ -14,6 +14,7 @@ My experience and knowledge of web development are reflected in the quality of m
 
 ## Some of my Github Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov&theme=nightowl&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgrezanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
