@@ -10,11 +10,11 @@ I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and f
 
 Throughout my career, I have developed a wide range of applications and systems, including corporate EMC systems, company document flow management, and more. With expertise in PHP and WordPress, I am highly proficient in WooCommerce and have extensive experience with databases such as MySQL, PosgreSQL, MS SQL, Redis, and Memcached.
 
-My experience and knowledge of web development are reflected in the quality of my code and my attention to detail, which are evident in my Github contributions and stats.
+My experience and knowledge of web development are reflected in the quality of my code and my attention to detail, which are evident in my GitHub contributions and stats.
 
 ## Some of my Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov&theme=nightowl&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov&theme=vue-dark&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgrezanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
