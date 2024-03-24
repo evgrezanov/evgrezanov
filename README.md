@@ -13,10 +13,7 @@ Throughout my career, I have developed a wide range of applications and systems,
 My experience and knowledge of web development are reflected in the quality of my code and my attention to detail, which are evident in my GitHub contributions and stats.
 
 ## Some of my Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov&theme=vue-dark&hide_border=true&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov)](https://git.io/streak-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgrezanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evgrezanov)](https://github.com/anuraghazra/github-readme-stats)
