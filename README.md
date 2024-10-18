@@ -12,6 +12,8 @@ Throughout my career, I have developed a wide range of applications and systems,
 
 My experience and knowledge of web development are reflected in the quality of my code and my attention to detail, which are evident in my GitHub contributions and stats.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/1227930/95412761-47bad580-095c-11eb-8970-14368cd6653a.gif"></p>
+
 ## Some of my Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=evgrezanov)](https://git.io/streak-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
