@@ -19,3 +19,5 @@ My experience and knowledge of web development are reflected in the quality of m
 [![Github stats](https://github-readme-stats.vercel.app/api?username=evgrezanov&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgrezanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evgrezanov)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/redmonkey"><img src="https://api.daily.dev/devcards/v2/KYxKMcHOYFhm38OcN7EtA.png?type=default&r=h0w" width="356" alt="Evgeniy's Dev Card"/></a>
