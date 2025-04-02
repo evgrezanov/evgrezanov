@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Evgenii
 ===============================================================================================================================
 
-Sr. Software engeneer
----------------------
+and i am Sr. Software engeneer / Team Lead
+------------------------------------------
 
 I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and front-end development. I am always eager to learn and expand my skill set, and am currently exploring new technologies such as chatGPT, VueJS, and GatsbyJS. Throughout my career, I have developed a wide range of applications and systems, including corporate EMC systems, company document flow management, and more. With expertise in PHP and WordPress, I am highly proficient in WooCommerce and have extensive experience with databases such as MySQL, PosgreSQL, MS SQL, Redis, and Memcached. My experience and knowledge of web development are reflected in the quality of my code and my attention to detail, which are evident in my GitHub contributions and stats.
 
