@@ -207,3 +207,5 @@ I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and f
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evgrezanov)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/redmonkey"><img src="https://api.daily.dev/devcards/v2/KYxKMcHOYFhm38OcN7EtA.png?type=default&r=h0w" width="356" alt="Evgeniy's Dev Card"/></a>
+
+[![Evgenii's WordPress Activity](https://www.cardpress.us/card?username=redmonkey73&badges=true)](https://eredmonkey.link/)
