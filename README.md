@@ -16,7 +16,7 @@ I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and f
 <a href="https://www.twitch.tv/eredmonkey73" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/eredmonkey73?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 ### Skills 
-<p align="left">
+<div align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
@@ -113,10 +113,10 @@ I am Evgeniy, a web developer with a strong background in PHP, JavaScript, and f
     <a href="https://apple.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" />
     </a>
-</p>
-<p align="right">
+</div>
+<div align="right">
     [![Evgenii's WordPress Activity](https://www.cardpress.us/card?username=redmonkey73&badges=true)](https://eredmonkey.link/)
-</p>
+</div>
 
 ### Socials
 <p align="left">
