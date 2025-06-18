@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Evgenii
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Evgenii
 ===============================================================================================================================
 
-and i am Sr. Software engeneer / Team Lead
+Sr.Software engeneer | Team Lead | Fullstack developer
 ------------------------------------------
 [![Evgenii's WordPress Activity](https://www.cardpress.us/card?username=redmonkey73&badges=true)](https://eredmonkey.link/)
 
