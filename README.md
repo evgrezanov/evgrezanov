@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Evgenii
 ===============================================================================================================================
 
